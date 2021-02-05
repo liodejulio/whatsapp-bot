@@ -1,37 +1,3 @@
-<p align="center">
-<img src="https://imgur.com/tuhH7cs.png" width="128" height="128"/>
-</p>
-<p align="center">
-<a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-<p align="center">
-<a href="https://github.com/gabrielanselmo"><img title="Author" src="https://img.shields.io/badge/AUTHOR-gabrielanselmo-orange.svg?style=for-the-badge&logo=github"></a>
-</p>
-<p align="center">
-<a href="https://www.codefactor.io/repository/github/gabrielanselmo/whatsapp-bot/overview/master"><img title="Rating" src="https://www.codefactor.io/repository/github/gabrielanselmo/whatsapp-bot/badge/master"></a>
-</p>
-<p align="center">
-<a href="https://github.com/gabrielanselmo/followers"><img title="Followers" src="https://img.shields.io/github/followers/gabrielanselmo?color=blue&style=flat-square"></a>
-<a href="https://github.com/gabrielanselmo/whatsapp-bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/gabrielanselmo/whatsapp-bot?color=red&style=flat-square"></a>
-<a href="https://github.com/gabrielanselmo/whatsapp-bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/gabrielanselmo/whatsapp-bot?color=red&style=flat-square"></a>
-<a href="https://github.com/gabrielanselmo/whatsapp-bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/gabrielanselmo/whatsapp-bot?label=Watchers&color=blue&style=flat-square"></a>
-</p>
-<div align="center">
-<details>
- <summary>🥟 Ajude-me!</summary>
- 
- [Em Breve](http://embreve.com)
- 
-</details>
-
-é tudo de graça ⭐️ não seja mesquinho :D
-<p align="center"><a href="https://instagram.com/biell_anselmo/" target="_blank">Fale comigo pelo instagram!</a>.</p>
-</div>
-
-## Começando
-
-O projeto precisa do NodeJS v12.
-
 ### Instalação
 Clone o projeto
 
