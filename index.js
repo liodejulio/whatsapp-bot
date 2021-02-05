@@ -6,10 +6,10 @@ const HandleMsg = require('./HandleMsg')
 
 const start = (aruga = new Client()) => {
     console.log(color(figlet.textSync('----------------', { horizontalLayout: 'default' })))
-    console.log(color(figlet.textSync('BIEL BOT', { font: 'Ghost', horizontalLayout: 'default' })))
+    console.log(color(figlet.textSync('Tavrna BOT', { font: 'Ghost', horizontalLayout: 'default' })))
     console.log(color(figlet.textSync('----------------', { horizontalLayout: 'default' })))
-    console.log(color('[DEV]'), color('Biel', 'yellow'))
-    console.log(color('[~>>]'), color('Biel BOT iniciado!', 'green'))
+    console.log(color('[DEV]'), color('liodejulio', 'yellow'))
+    console.log(color('[~>>]'), color('Taverna BOT iniciado!', 'green'))
 
     // Mempertahankan sesi agar tetap nyala
     aruga.onStateChanged((state) => {
